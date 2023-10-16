@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Meu primeiro post",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "author": "Ana"
+    },
+    {
+      "id": 2,
+      "title": "Top 10 Alguma coisa",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "author": "Maria"
+    },
+    {
+      "id": 3,
+      "title": "Como fazer algo",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "author": "João"
+    },
+    {
+      "title": "Novo Post",
+      "body": "Conteúdo!! ",
+      "author": "João",
+      "id": 4
+    },
+    {
+      "title": "Criando novo post",
+      "body": "Conteúdo!! ",
+      "author": "Maria",
+      "id": 5
+    },
+    {
+      "title": "Post Com React",
+      "body": "Conteúdo",
+      "author": "Maria",
+      "id": 6
+    }
+  ]
+}
